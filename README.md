@@ -2,6 +2,9 @@
 <h3 align="center">Audio Engineer turned Fullstack Web Developer 👨‍🏫</h3>
 
 - 📫 You can reach me via **marvin.deutz@yahoo.com**
+- Based in Berlin, Germany
+
+I am currently looking for a Junior Full Stack position! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
