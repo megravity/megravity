@@ -10,6 +10,11 @@
   <li><a href="https://github.com/megravity/event-queue-scraper" target="blank">Berlin Events Queue Scraper</a></li>
 </ul>
 
+<h3 align="left">Past projects:</h3>
+<ul>
+  <li><a href="https://github.com/megravity/quotegeneration-app" target="blank">Quote generation Full Stack app with user authentication</a></li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_hate_vnike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_hate_vnike" height="30" width="40" /></a>
