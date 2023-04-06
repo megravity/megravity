@@ -7,7 +7,7 @@
 
 <h3 align="left">Currently working on:</h3>
 <ul>
-  <li><a href="https://github.com/megravity/event-queue-scraper" target="_blank">Berlin Events Queue Scraper</a></li>
+  <li><a href="https://github.com/megravity/event-queue-scraper" target="blank">Berlin Events Queue Scraper</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
