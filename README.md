@@ -13,7 +13,7 @@
 <h3 align="left">Past projects:</h3>
 <ul>
   <li><a href="https://github.com/megravity/quotegeneration-app" target="blank">Quote generation Full Stack app with user authentication</a></li>
-  <li><a href="https://github.com/megravity/movie-quiz-app" target="blank">Movie quizz Frontend app</a></li>
+  <li><a href="https://github.com/megravity/movie-quiz-app" target="blank">Movie quiz Frontend app</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
