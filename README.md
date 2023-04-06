@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marvin! 😊</h1>
-<h3 align="center">Full Stack Developer in the making 👨‍🏫</h3>
+<h3 align="center">Full Stack Developer based in Berlin, Germany 👨‍🏫</h3>
 
-- 🌱 I’m currently learning **Web Development @ DCI 🧑‍💻**
+- 🌱 I’m currently looking for a **Junior Full Stack Web Development** postion 🧑‍💻
 
 - 📫 You can reach me via **marvin.deutz@yahoo.com**
 
