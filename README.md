@@ -7,13 +7,15 @@
 
 <h3 align="left">Currently working on:</h3>
 <ul>
-  <li><a href="https://github.com/megravity/event-queue-scraper" target="blank">Berlin Events Queue Scraper</a></li>
+  <li><a href="https://github.com/megravity/event-queue-scraper" target="_blank">Berlin Events Queue Scraper</a></li>
+  <li><a href="https://github.com/setazarm/UNO" target="_blank">Multiplayer UNO game</a></li>
+   
 </ul>
 
 <h3 align="left">Past projects:</h3>
 <ul>
-  <li><a href="https://github.com/megravity/quotegeneration-app" target="blank">Quote generation Full Stack app with user authentication</a></li>
-  <li><a href="https://github.com/megravity/movie-quiz-app" target="blank">Movie quiz Frontend app</a></li>
+  <li><a href="https://github.com/megravity/quotegeneration-app" target="_blank">Quote generation Full Stack app with user authentication</a></li>
+  <li><a href="https://github.com/megravity/movie-quiz-app" target="_blank">Movie quiz Frontend app</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
