@@ -8,7 +8,7 @@
 <h3 align="left">Currently working on:</h3>
 <ul>
   <li><a href="https://github.com/megravity/event-queue-scraper" target="_blank">Berlin Events Queue Scraper</a></li>
-  <li><a href="https://github.com/setazarm/UNO" target="_blank">Multiplayer UNO game</a></li>
+  <li><a href="https://github.com/megravity/UNO" target="_blank">Multiplayer UNO game</a></li>
    
 </ul>
 
