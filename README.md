@@ -1,23 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marvin! 😊</h1>
-<h3 align="center">Audio Engineer turned Fullstack Web Developer 👨‍🏫</h3>
-
 - 📫 You can reach me via **marvin.deutz@yahoo.com**
 - Based in Berlin, Germany
-- I am currently looking for a Junior Full Stack position! 
-
-<h3 align="left">Currently working on:</h3>
-<ul>
-  <li><a href="https://github.com/megravity/event-queue-scraper" target="_blank">Berlin Events Queue Scraper</a></li>
-
-   
-</ul>
-
-<h3 align="left">Past projects:</h3>
-<ul>
-  <li><a href="https://github.com/megravity/UNO" target="_blank">Multiplayer UNO game</a></li>
-  <li><a href="https://github.com/megravity/quotegeneration-app" target="_blank">Quote generation Full Stack app with user authentication</a></li>
-  <li><a href="https://github.com/megravity/movie-quiz-app" target="_blank">Movie quiz Frontend app</a></li>
-</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
